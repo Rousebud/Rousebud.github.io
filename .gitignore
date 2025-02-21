@@ -1,0 +1,5 @@
+# 示例：忽略 node_modules 和临时文件
+node_modules/
+.DS_Store
+*.log
+.cache/
